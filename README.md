@@ -20,6 +20,13 @@ Flight Price Prediction project aims to predict flight price in India based on t
 - `flight_price_prediction.csv` : CSV file containing the data of Flights History.
 - `deployment/` : Folder containing the code for model deployment.
 
+## Algorithm Used
+- `K-Nearest Neighbors Regressor`
+- `Support Vector Machines Regressor`
+- `Decision Tree Regressor`
+- `Random Forest Regressor`
+- `AdaBoost Regressor`
+
 ## Result
 The Flight Price Prediction project was able to successfully the flight price with an R2Score of 94.3% and 1.4s predict time. The project identified the most important features that influcences the flight price and created a predictive model that can be used to predict the price for future flight. These can be used by Airlines to help them to evaluate their ticket price by comparing it with their competitor.
 
