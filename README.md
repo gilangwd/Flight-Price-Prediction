@@ -1,4 +1,4 @@
-# Flight-Price-Prediction
+# Flight Price Prediction
 This repository contains an supervised machine learning project to predict the flight prices in India. The project is designed to help traveler to predict their ticket price, so they can determine the airlines, departure times and prices that are efficient for them.
 
 ## Project Overview
