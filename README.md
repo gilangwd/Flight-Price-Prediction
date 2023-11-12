@@ -29,7 +29,7 @@ Flight Price Prediction project aims to predict flight price in India based on t
 - AdaBoost Regressor
 
 ## Result
-![Model Result](./images/01_model_result.png)
+![Model Result](./images/01_model_result.png)  
 Above are the result of model evaluation and model improvement.
 
 - From all five baseline model, `KNN` model give the best result compared to the other four with 96% R2 Score of Cross Validation Mean. How ever this model predict time is more than 10 mins even with only base parameter. So we will choose our second best model with lower predict time which is `Decision Tree` and `Random Forest` to improve. Both of this still have 93% R2 Score of Cross Validation Mean as baseline model but much less resource needed, so we can say this model is the most efficient.
