@@ -19,6 +19,7 @@ Flight Price Prediction project aims to predict flight price in India based on t
 - `Flight_Price_Prediction_Inference.ipynb` : Jupyter Notebook containing the code for model inference testing.
 - `flight_price_prediction.csv` : CSV file containing the data of Flights History.
 - `deployment/` : Folder containing the code for model deployment.
+- `images/` : Folder containing images result.
 
 ## Algorithm Used
 - K-Nearest Neighbors Regressor
